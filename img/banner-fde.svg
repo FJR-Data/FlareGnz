@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Fabio Gonzaga — Forward Deployed Data &amp; AI Engineer</title>
+  <desc id="desc">Embedded with business teams, shipping CRM, BI and AI-agent solutions into production.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="1" stop-color="#1b1640"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#7c5cff"/>
+      <stop offset="1" stop-color="#2ec5a5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="16" fill="url(#bg)"/>
+  <rect x="56" y="64" width="6" height="172" rx="3" fill="url(#accent)"/>
+  <g font-family="'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="88" y="92" fill="#9aa4bf" font-size="18" letter-spacing="4">FABIO GONZAGA · @FJR-Data</text>
+    <text x="88" y="148" fill="#f2f4fb" font-size="44" font-weight="700">Forward Deployed Data &amp; AI Engineer</text>
+    <text x="88" y="190" fill="#c9cfe0" font-size="21">Embedded with business teams. From messy CRM data to BI and AI agents in production.</text>
+    <g font-size="15" fill="#2ec5a5">
+      <text x="88" y="232">Salesforce · Dynamics 365 · SQL · Python · Power BI · Claude Code · MCP · Agents</text>
+    </g>
+  </g>
+  <g opacity="0.18" fill="none" stroke="#7c5cff" stroke-width="2">
+    <circle cx="1090" cy="70" r="46"/>
+    <circle cx="1090" cy="70" r="84"/>
+    <circle cx="1090" cy="70" r="122"/>
+  </g>
+</svg>
