@@ -1,0 +1,26 @@
+[build-system]
+requires = ["hatchling>=1.25"]
+build-backend = "hatchling.build"
+
+[project]
+name = "crm-hygiene-mcp"
+version = "0.1.0"
+description = "Read-only MCP server that audits CRM exports and reconciles migrations, with evals on seeded data."
+readme = "README.md"
+license = "MIT"
+requires-python = ">=3.11"
+authors = [{ name = "Fabio Gonzaga da Silva Junior" }]
+dependencies = ["mcp>=2.3,<3"]
+
+[project.optional-dependencies]
+dev = ["pytest>=8"]
+
+[project.scripts]
+crm-hygiene-mcp = "crm_hygiene.server:main"
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/crm_hygiene"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]

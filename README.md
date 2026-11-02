@@ -23,7 +23,7 @@ I'm Fabio, a data & AI engineer who works the way Forward Deployed Engineers do:
 | Messy enterprise data | Salesforce, Dynamics 365, NetSuite, HubSpot · SQL Server, PostgreSQL, Presto |
 | Shipping to production | CRM audit automation, Power BI / Fabric reporting, AI-assisted CRM extraction used by business teams |
 | Agent artifacts: MCP servers, sub-agents, skills | Python MCP servers (8 tools / 69 tests; 6 tools / 22 tests), 36 custom Claude Code skills, subagent pipelines, a multi-agent orchestrator with 653 automated tests |
-| Evals, not vibes | Self-improving code loop that keeps a change only if its eval score goes up, otherwise reverts |
+| Evals, not vibes | Public [crm-hygiene-mcp](projects/crm-hygiene-mcp) gates every check on seeded data in CI; the eval caught a duplicate matcher at 0.73 precision, now 1.00. Privately: a self-improving code loop that keeps a change only if its eval score goes up |
 | Business framing | Category budget reallocation with Kantar / Euromonitor data: **+7.57% ROI** |
 
 ## Selected work
@@ -54,6 +54,15 @@ I'm Fabio, a data & AI engineer who works the way Forward Deployed Engineers do:
 **Marketing budget allocation** · *Natura, 2019*
 
 - ETL from a legacy database plus Kantar / Euromonitor market data to reallocate budget across categories: **+7.57% ROI** on the optimized allocation.
+
+### Open source
+
+**[crm-hygiene-mcp](projects/crm-hygiene-mcp)** · read-only MCP server that lets an AI agent audit CRM exports and reconcile a CRM migration, generalized from my field work, on synthetic data.
+
+- 4 tools: hygiene score with 5 checks, duplicate-account clusters with evidence, migration diff with every divergence classified (`format_only`, `lost_in_target`, `added_in_target`, `value_changed`).
+- Guardrails: read-only tool annotations, file access scoped to one folder, capped outputs, errors the model can act on.
+- Evals as a CI gate on 10 seeded datasets: duplicate detection went from **0.73 to 1.00 precision** at 0.91 recall after the eval exposed branch entities ("Norte" vs "Sul") being merged. [Decision log](projects/crm-hygiene-mcp/docs/decisions.md).
+- Python · MCP Python SDK v2 · 31 tests.
 
 ### AI engineering lab
 

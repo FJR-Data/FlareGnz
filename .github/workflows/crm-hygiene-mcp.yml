@@ -1,0 +1,26 @@
+name: crm-hygiene-mcp
+
+on:
+  push:
+    paths: ["projects/crm-hygiene-mcp/**", ".github/workflows/crm-hygiene-mcp.yml"]
+  pull_request:
+    paths: ["projects/crm-hygiene-mcp/**", ".github/workflows/crm-hygiene-mcp.yml"]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: projects/crm-hygiene-mcp
+    strategy:
+      matrix:
+        python-version: ["3.11", "3.13"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - run: pip install -e ".[dev]"
+      - run: pytest -q
+      - name: Quality gates
+        run: python evals/run_evals.py

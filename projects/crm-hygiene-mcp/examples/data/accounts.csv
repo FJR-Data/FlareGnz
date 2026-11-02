@@ -1,0 +1,211 @@
+id,name,website,owner,segment
+A-00001,Ponte Estruturas Norte Ltda,https://www.ponteestruturasnorte.com.br,owner.e,Public Sector
+A-00002,Cedro Saneamento Minas S.A.,https://www.cedrosaneamentominas.com.br,owner.c,Public Sector
+A-00003,Orbe Engenharia Minas,https://www.orbeengenhariaminas.com.br,owner.e,Manufacturing
+A-00004,Vale Construtora Sul Ltda,https://www.valeconstrutorasul.com.br,owner.b,Public Sector
+A-00005,Cedro Energia Serra Ltda,https://www.cedroenergiaserra.com.br,owner.c,Public Sector
+A-00006,Atlas Estruturas Litoral Ltda,,owner.d,AEC
+A-00007,Delta Construtora Serra Ltda,https://www.deltaconstrutoraserra.com.br,owner.e,Manufacturing
+A-00008,Orbe Saneamento Oeste,https://www.orbesaneamentooeste.com.br,owner.b,Media
+A-00009,Orbe Infraestrutura Sul S.A.,https://www.orbeinfraestruturasul.com.br,,Media
+A-00010,Ponte Logística Litoral Ltda,https://www.pontelogisticalitoral.com.br,,Public Sector
+A-00011,Delta Projetos Oeste ME,https://www.deltaprojetosoeste.com.br,owner.b,Media
+A-00012,Horizonte Energia Bahia,https://www.horizonteenergiabahia.com.br,owner.a,Public Sector
+A-00013,Terra Projetos Oeste ME,https://www.terraprojetosoeste.com.br,owner.c,Public Sector
+A-00014,Delta Saneamento Capital,https://www.deltasaneamentocapital.com.br,owner.b,AEC
+A-00015,Ponte Projetos Serra S.A.,https://www.ponteprojetosserra.com.br,owner.b,Manufacturing
+A-00016,Alto Construtora Sul ME,,owner.b,Public Sector
+A-00017,Orbe Urbanismo Litoral,,owner.a,Public Sector
+A-00018,Nova Metalúrgica Oeste ME,,owner.d,AEC
+A-00019,Monte Infraestrutura Minas S.A.,https://www.monteinfraestruturaminas.com.br,owner.a,Manufacturing
+A-00020,Vértice Metalúrgica Oeste S.A.,https://www.verticemetalurgicaoeste.com.br,owner.b,Media
+A-00021,Nova Estruturas Oeste S.A.,https://www.novaestruturasoeste.com.br,owner.c,Media
+A-00022,Monte Saneamento Serra S.A.,https://www.montesaneamentoserra.com.br,owner.a,Media
+A-00023,Atlas Estruturas Capital,https://www.atlasestruturascapital.com.br,owner.e,AEC
+A-00024,Horizonte Saneamento Serra S.A.,https://www.horizontesaneamentoserra.com.br,owner.c,AEC
+A-00025,Aurora Infraestrutura Leste S.A.,,owner.d,Media
+A-00026,Delta Saneamento Leste S.A.,https://www.deltasaneamentoleste.com.br,owner.c,Public Sector
+A-00027,Nova Manufatura Litoral Ltda,,owner.c,Manufacturing
+A-00028,Vértice Construtora Bahia Ltda,https://www.verticeconstrutorabahia.com.br,owner.e,Media
+A-00029,Quartzo Estruturas Serra,https://www.quartzoestruturasserra.com.br,owner.e,Media
+A-00030,Horizonte Construtora Capital,https://www.horizonteconstrutoracapital.com.br,owner.d,Manufacturing
+A-00031,Farol Projetos Capital S.A.,https://www.farolprojetoscapital.com.br,owner.b,Manufacturing
+A-00032,Prisma Saneamento Serra S.A.,https://www.prismasaneamentoserra.com.br,owner.a,Public Sector
+A-00033,Ponte Estruturas Sul S.A.,https://www.ponteestruturassul.com.br,owner.e,Manufacturing
+A-00034,Terra Construtora Sul S.A.,https://www.terraconstrutorasul.com.br,owner.e,Public Sector
+A-00035,Monte Estruturas Minas Ltda,https://www.monteestruturasminas.com.br,owner.c,Media
+A-00036,Horizonte Estruturas Sul,https://www.horizonteestruturassul.com.br,owner.d,Public Sector
+A-00037,Alto Arquitetura Oeste ME,https://www.altoarquiteturaoeste.com.br,owner.e,
+A-00038,Nova Urbanismo Norte Ltda,https://www.novaurbanismonorte.com.br,owner.d,AEC
+A-00039,Terra Engenharia Sul S.A.,,owner.c,Public Sector
+A-00040,Sol Metalúrgica Sul Ltda,https://www.solmetalurgicasul.com.br,owner.a,Public Sector
+A-00041,Vértice Infraestrutura Capital Ltda,https://www.verticeinfraestruturacapital.com.br,,Manufacturing
+A-00042,Farol Urbanismo Bahia S.A.,https://www.farolurbanismobahia.com.br,owner.b,AEC
+A-00043,Vale Saneamento Litoral Ltda,https://www.valesaneamentolitoral.com.br,owner.b,
+A-00044,Vale Estruturas Paulista S.A.,https://www.valeestruturaspaulista.com.br,owner.a,Media
+A-00045,Ponte Manufatura Minas S.A.,https://www.pontemanufaturaminas.com.br,owner.a,Public Sector
+A-00046,Vértice Projetos Serra ME,https://www.verticeprojetosserra.com.br,owner.a,Public Sector
+A-00047,Lumen Projetos Paulista S.A.,,owner.b,Public Sector
+A-00048,Monte Infraestrutura Capital S.A.,,owner.a,Public Sector
+A-00049,Vértice Projetos Minas Ltda,https://www.verticeprojetosminas.com.br,owner.a,Media
+A-00050,Lumen Estruturas Litoral S.A.,,owner.d,Media
+A-00051,Lumen Energia Bahia Ltda,https://www.lumenenergiabahia.com.br,owner.b,Media
+A-00052,Delta Engenharia Capital,https://www.deltaengenhariacapital.com.br,owner.a,Media
+A-00053,Prisma Infraestrutura Bahia S.A.,https://www.prismainfraestruturabahia.com.br,owner.d,Manufacturing
+A-00054,Ponte Energia Norte Ltda,https://www.ponteenergianorte.com.br,owner.d,Public Sector
+A-00055,Farol Manufatura Leste,https://www.farolmanufaturaleste.com.br,owner.a,AEC
+A-00056,Quartzo Construtora Minas ME,,owner.e,Media
+A-00057,Sol Manufatura Bahia Ltda,https://www.solmanufaturabahia.com.br,owner.c,AEC
+A-00058,Delta Engenharia Bahia,https://www.deltaengenhariabahia.com.br,owner.a,Media
+A-00059,Sol Projetos Oeste ME,https://www.solprojetosoeste.com.br,owner.a,AEC
+A-00060,Rio Energia Bahia ME,https://www.rioenergiabahia.com.br,owner.e,Manufacturing
+A-00061,Horizonte Infraestrutura Capital S.A.,,owner.d,Media
+A-00062,Horizonte Saneamento Litoral Ltda,https://www.horizontesaneamentolitoral.com.br,owner.c,Public Sector
+A-00063,Quartzo Estruturas Litoral S.A.,https://www.quartzoestruturaslitoral.com.br,owner.b,Media
+A-00064,Horizonte Saneamento Oeste ME,https://www.horizontesaneamentooeste.com.br,owner.d,
+A-00065,Monte Arquitetura Sul S.A.,https://www.montearquiteturasul.com.br,owner.e,Public Sector
+A-00066,Orbe Saneamento Norte,https://www.orbesaneamentonorte.com.br,owner.c,Manufacturing
+A-00067,Sol Engenharia Paulista S.A.,https://www.solengenhariapaulista.com.br,owner.c,Public Sector
+A-00068,Delta Saneamento Minas S.A.,https://www.deltasaneamentominas.com.br,owner.a,Manufacturing
+A-00069,Cedro Engenharia Serra ME,https://www.cedroengenhariaserra.com.br,owner.a,Public Sector
+A-00070,Quartzo Metalúrgica Litoral ME,https://www.quartzometalurgicalitoral.com.br,owner.a,Manufacturing
+A-00071,Vértice Estruturas Leste S.A.,https://www.verticeestruturasleste.com.br,owner.c,Manufacturing
+A-00072,Sol Energia Minas ME,,owner.e,AEC
+A-00073,Farol Metalúrgica Sul,https://www.farolmetalurgicasul.com.br,owner.b,Public Sector
+A-00074,Vértice Estruturas Sul Ltda,https://www.verticeestruturassul.com.br,owner.e,AEC
+A-00075,Orbe Projetos Capital S.A.,https://www.orbeprojetoscapital.com.br,owner.c,AEC
+A-00076,Quartzo Construtora Serra,https://www.quartzoconstrutoraserra.com.br,owner.c,Media
+A-00077,Farol Construtora Paulista,https://www.farolconstrutorapaulista.com.br,owner.e,Public Sector
+A-00078,Aurora Manufatura Sul Ltda,https://www.auroramanufaturasul.com.br,owner.d,Public Sector
+A-00079,Atlas Saneamento Capital S.A.,https://www.atlassaneamentocapital.com.br,owner.b,Public Sector
+A-00080,Cedro Logística Minas S.A.,https://www.cedrologisticaminas.com.br,owner.c,Media
+A-00081,Vértice Estruturas Minas S.A.,,owner.b,Public Sector
+A-00082,Monte Metalúrgica Minas Ltda,https://www.montemetalurgicaminas.com.br,owner.c,Public Sector
+A-00083,Alto Logística Serra ME,https://www.altologisticaserra.com.br,owner.d,Public Sector
+A-00084,Cedro Infraestrutura Minas ME,https://www.cedroinfraestruturaminas.com.br,owner.c,Public Sector
+A-00085,Farol Projetos Bahia Ltda,https://www.farolprojetosbahia.com.br,owner.a,Public Sector
+A-00086,Granito Logística Paulista,https://www.granitologisticapaulista.com.br,owner.e,Manufacturing
+A-00087,Orbe Construtora Sul,https://www.orbeconstrutorasul.com.br,owner.d,Media
+A-00088,Monte Logística Minas Ltda,https://www.montelogisticaminas.com.br,owner.c,Media
+A-00089,Orbe Projetos Leste ME,https://www.orbeprojetosleste.com.br,owner.a,Media
+A-00090,Farol Construtora Norte,https://www.farolconstrutoranorte.com.br,owner.e,Media
+A-00091,Prisma Logística Capital S.A.,https://www.prismalogisticacapital.com.br,owner.b,Public Sector
+A-00092,Horizonte Manufatura Norte Ltda,https://www.horizontemanufaturanorte.com.br,,Public Sector
+A-00093,Vale Arquitetura Litoral ME,https://www.valearquiteturalitoral.com.br,owner.e,AEC
+A-00094,Nova Construtora Serra,,owner.e,AEC
+A-00095,Granito Infraestrutura Bahia S.A.,https://www.granitoinfraestruturabahia.com.br,owner.e,Media
+A-00096,Monte Construtora Litoral S.A.,https://www.monteconstrutoralitoral.com.br,owner.d,AEC
+A-00097,Aurora Projetos Bahia Ltda,https://www.auroraprojetosbahia.com.br,owner.a,Manufacturing
+A-00098,Prisma Energia Norte,,owner.e,Public Sector
+A-00099,Terra Saneamento Sul Ltda,https://www.terrasaneamentosul.com.br,owner.e,Media
+A-00100,Aurora Manufatura Leste S.A.,https://www.auroramanufaturaleste.com.br,owner.b,AEC
+A-00101,Horizonte Saneamento Capital Ltda,,owner.e,AEC
+A-00102,Lumen Engenharia Paulista,https://www.lumenengenhariapaulista.com.br,owner.a,AEC
+A-00103,Cedro Arquitetura Sul,https://www.cedroarquiteturasul.com.br,,Public Sector
+A-00104,Granito Metalúrgica Serra S.A.,https://www.granitometalurgicaserra.com.br,owner.b,Manufacturing
+A-00105,Aurora Estruturas Sul,https://www.auroraestruturassul.com.br,owner.e,Media
+A-00106,Ponte Construtora Paulista,,owner.a,Manufacturing
+A-00107,Nova Logística Bahia S.A.,https://www.novalogisticabahia.com.br,,Public Sector
+A-00108,Vértice Arquitetura Bahia Ltda,https://www.verticearquiteturabahia.com.br,owner.c,Public Sector
+A-00109,Terra Estruturas Sul ME,https://www.terraestruturassul.com.br,owner.c,AEC
+A-00110,Farol Saneamento Sul,https://www.farolsaneamentosul.com.br,owner.a,AEC
+A-00111,Orbe Saneamento Serra ME,https://www.orbesaneamentoserra.com.br,owner.d,Manufacturing
+A-00112,Atlas Saneamento Paulista ME,https://www.atlassaneamentopaulista.com.br,owner.a,Media
+A-00113,Prisma Logística Leste ME,,owner.b,Manufacturing
+A-00114,Cedro Manufatura Serra ME,https://www.cedromanufaturaserra.com.br,owner.b,Public Sector
+A-00115,Nova Manufatura Norte S.A.,https://www.novamanufaturanorte.com.br,owner.c,Manufacturing
+A-00116,Lumen Saneamento Leste,https://www.lumensaneamentoleste.com.br,owner.e,Manufacturing
+A-00117,Alto Engenharia Bahia,https://www.altoengenhariabahia.com.br,owner.b,Public Sector
+A-00118,Sol Projetos Bahia ME,https://www.solprojetosbahia.com.br,owner.d,Media
+A-00119,Aurora Metalúrgica Capital,https://www.aurorametalurgicacapital.com.br,owner.b,Manufacturing
+A-00120,Vale Energia Paulista Ltda,https://www.valeenergiapaulista.com.br,owner.a,Media
+A-00121,Alto Saneamento Sul,https://www.altosaneamentosul.com.br,owner.e,Manufacturing
+A-00122,Delta Metalúrgica Paulista,https://www.deltametalurgicapaulista.com.br,owner.b,Manufacturing
+A-00123,Rio Urbanismo Serra Ltda,https://www.riourbanismoserra.com.br,owner.c,Media
+A-00124,Nova Construtora Litoral ME,https://www.novaconstrutoralitoral.com.br,owner.c,Manufacturing
+A-00125,Farol Saneamento Minas,https://www.farolsaneamentominas.com.br,owner.d,Public Sector
+A-00126,Nova Energia Oeste S.A.,,owner.b,AEC
+A-00127,Sol Saneamento Litoral ME,,owner.a,Public Sector
+A-00128,Prisma Urbanismo Oeste,https://www.prismaurbanismooeste.com.br,owner.a,Manufacturing
+A-00129,Quartzo Infraestrutura Paulista ME,,owner.b,AEC
+A-00130,Aurora Arquitetura Norte S.A.,https://www.auroraarquiteturanorte.com.br,owner.c,Manufacturing
+A-00131,Quartzo Logística Litoral Ltda,https://www.quartzologisticalitoral.com.br,owner.b,Manufacturing
+A-00132,Orbe Construtora Leste ME,,owner.e,Media
+A-00133,Delta Engenharia Serra Ltda,,owner.c,AEC
+A-00134,Sol Manufatura Paulista Ltda,,owner.a,AEC
+A-00135,Delta Manufatura Litoral S.A.,https://www.deltamanufaturalitoral.com.br,owner.c,AEC
+A-00136,Cedro Logística Oeste,,owner.e,Manufacturing
+A-00137,Rio Metalúrgica Leste Ltda,https://www.riometalurgicaleste.com.br,owner.d,Public Sector
+A-00138,Prisma Arquitetura Oeste,https://www.prismaarquiteturaoeste.com.br,owner.b,Public Sector
+A-00139,Orbe Estruturas Minas S.A.,https://www.orbeestruturasminas.com.br,owner.b,AEC
+A-00140,Delta Estruturas Bahia ME,https://www.deltaestruturasbahia.com.br,owner.b,Manufacturing
+A-00141,Alto Energia Bahia S.A.,,owner.b,Media
+A-00142,Farol Manufatura Sul Ltda,https://www.farolmanufaturasul.com.br,owner.c,Manufacturing
+A-00143,Granito Energia Oeste,https://www.granitoenergiaoeste.com.br,owner.b,
+A-00144,Horizonte Energia Leste S.A.,,owner.c,Media
+A-00145,Alto Logística Minas S.A.,https://www.altologisticaminas.com.br,owner.b,Media
+A-00146,Alto Arquitetura Bahia Ltda,https://www.altoarquiteturabahia.com.br,owner.b,Manufacturing
+A-00147,Ponte Engenharia Minas,,owner.d,Manufacturing
+A-00148,Delta Saneamento Norte ME,https://www.deltasaneamentonorte.com.br,owner.d,
+A-00149,Orbe Energia Litoral ME,https://www.orbeenergialitoral.com.br,owner.c,Public Sector
+A-00150,Rio Manufatura Leste S.A.,https://www.riomanufaturaleste.com.br,owner.d,Media
+A-00151,Ponte Urbanismo Capital Ltda,https://www.ponteurbanismocapital.com.br,owner.d,Public Sector
+A-00152,Vale Projetos Minas ME,,owner.e,Media
+A-00153,Prisma Logística Serra,,owner.d,Manufacturing
+A-00154,Atlas Engenharia Minas ME,https://www.atlasengenhariaminas.com.br,owner.a,Media
+A-00155,Ponte Urbanismo Litoral ME,https://www.ponteurbanismolitoral.com.br,owner.a,Manufacturing
+A-00156,Granito Estruturas Norte Ltda,https://www.granitoestruturasnorte.com.br,owner.b,Media
+A-00157,Rio Estruturas Leste S.A.,https://www.rioestruturasleste.com.br,owner.c,Media
+A-00158,Alto Saneamento Litoral ME,https://www.altosaneamentolitoral.com.br,owner.c,Manufacturing
+A-00159,Monte Logística Litoral ME,,,Manufacturing
+A-00160,Cedro Construtora Norte,,owner.b,Public Sector
+A-00161,Monte Projetos Litoral S.A.,,owner.e,AEC
+A-00162,Horizonte Logística Norte S.A.,https://www.horizontelogisticanorte.com.br,owner.d,Public Sector
+A-00163,Lumen Manufatura Bahia Ltda,,owner.d,Manufacturing
+A-00164,Horizonte Manufatura Capital ME,https://www.horizontemanufaturacapital.com.br,owner.e,Public Sector
+A-00165,Terra Urbanismo Litoral Ltda,https://www.terraurbanismolitoral.com.br,owner.e,Public Sector
+A-00166,Vale Manufatura Sul Ltda,https://www.valemanufaturasul.com.br,owner.b,Manufacturing
+A-00167,Vértice Saneamento Litoral Ltda,https://www.verticesaneamentolitoral.com.br,owner.e,Media
+A-00168,Alto Saneamento Leste,https://www.altosaneamentoleste.com.br,owner.c,Public Sector
+A-00169,Vale Logística Paulista S.A.,,owner.e,AEC
+A-00170,Lumen Energia Serra Ltda,https://www.lumenenergiaserra.com.br,owner.c,Media
+A-00171,Alto Engenharia Sul,,owner.d,Manufacturing
+A-00172,Cedro Infraestrutura Norte ME,https://www.cedroinfraestruturanorte.com.br,owner.a,Manufacturing
+A-00173,Farol Logística Serra,https://www.farollogisticaserra.com.br,owner.b,Media
+A-00174,Farol Logística Leste,https://www.farollogisticaleste.com.br,owner.b,Public Sector
+A-00175,Atlas Construtora Paulista Ltda,https://www.atlasconstrutorapaulista.com.br,owner.b,AEC
+A-00176,Aurora Urbanismo Norte ME,https://www.auroraurbanismonorte.com.br,owner.b,Media
+A-00177,Cedro Arquitetura Litoral S.A.,https://www.cedroarquiteturalitoral.com.br,owner.b,AEC
+A-00178,Atlas Projetos Capital Ltda,,owner.a,Public Sector
+A-00179,Atlas Logística Bahia Ltda,https://www.atlaslogisticabahia.com.br,owner.e,AEC
+A-00180,Vale Logística Litoral,https://www.valelogisticalitoral.com.br,owner.b,Public Sector
+A-00181,Quartzo Construtora Bahia S.A.,https://www.quartzoconstrutorabahia.com.br,owner.e,AEC
+A-00182,Nova Urbanismo Serra Ltda,https://www.novaurbanismoserra.com.br,owner.a,Manufacturing
+A-00183,Aurora Urbanismo Oeste Ltda,https://www.auroraurbanismooeste.com.br,owner.d,AEC
+A-00184,Ponte Energia Litoral S.A.,https://www.ponteenergialitoral.com.br,owner.c,Manufacturing
+A-00185,Farol Estruturas Capital ME,,owner.a,Media
+A-00186,Farol Estruturas Litoral ME,https://www.farolestruturaslitoral.com.br,owner.e,Media
+A-00187,Atlas Projetos Norte Ltda,,owner.c,AEC
+A-00188,Cedro Energia Norte ME,,owner.a,AEC
+A-00189,Quartzo Estruturas Norte S.A.,https://www.quartzoestruturasnorte.com.br,owner.b,
+A-00190,Lumen Engenharia Serra Ltda,https://www.lumenengenhariaserra.com.br,owner.d,AEC
+A-00191,Terra Energia Norte ME,https://www.terraenergianorte.com.br,owner.e,Media
+A-00192,Ponte Arquitetura Paulista,,owner.e,Media
+A-00193,Monte Arquitetura Serra ME,,owner.a,AEC
+A-00194,Prisma Arquitetura Capital S.A.,https://www.prismaarquiteturacapital.com.br,owner.d,AEC
+A-00195,Granito Estruturas Capital Ltda,https://www.granitoestruturascapital.com.br,owner.e,Public Sector
+A-00196,Lumen Logística Litoral S.A.,https://www.lumenlogisticalitoral.com.br,owner.d,Public Sector
+A-00197,Vale Infraestrutura Bahia Ltda,https://www.valeinfraestruturabahia.com.br,owner.e,Manufacturing
+A-00198,Granito Manufatura Norte S.A.,https://www.granitomanufaturanorte.com.br,owner.a,Manufacturing
+A-00199,Aurora Engenharia Minas ME,https://www.auroraengenhariaminas.com.br,owner.c,Public Sector
+A-00200,Quartzo Infraestrutura Norte ME,https://www.quartzoinfraestruturanorte.com.br,owner.c,Public Sector
+A-00201,Atlas Estruturas Litoral S/A,,owner.a,AEC
+A-00202,Horizonte Saneamento Oeste S/A,http://horizontesaneamentooeste.com.br/contato,owner.c,Manufacturing
+A-00203,SOL PROJETOS BAHIA,https://www.solprojetosbahia.com.br,owner.e,Media
+A-00204,GRANITO ESTRUTURAS NORTE,https://www.granitoestruturasnorte.com.br,owner.b,Media
+A-00205,Horioznte Energia Bahia,https://www.horizonteenergiabahia.com.br,owner.c,Public Sector
+A-00206,Horizonte Logistica Norte Ltda.,https://www.horizontelogisticanorte.com.br,owner.b,Public Sector
+A-00207,Nova Urbanismo Norte S/A,https://www.novaurbanismonorte.com.br,owner.c,AEC
+A-00208,Atlas Prjoetos Norte,,owner.c,AEC
+A-00209,Cedro Infrasetrutura Norte,https://www.cedroinfraestruturanorte.com.br,owner.a,Manufacturing
+A-00210,Alto Arquitetura Oeste S/A,https://www.altoarquiteturaoeste.com.br,owner.d,Media
